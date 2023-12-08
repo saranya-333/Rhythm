@@ -1,6 +1,6 @@
 
 ###### Rhythm -a music stream website <br>
-🎵 A full-stack music website built with Next.js and React, styled with Tailwind CSS. Utilizes Supabase for the backend with PostgreSQL, offering secure user authentication and seamless<br>
+🎵 A full-stack music website built with Next.js and React, styled with Tailwind CSS. Utilizes Supabase for the backend with PostgreSQL, offering secure user authentication and seamless
 integration with Stripe for premium subscriptions. Explore the world of music streaming with this responsive and feature-rich application.<br>
 
 ***Key Features:*** <br>
